@@ -20,5 +20,5 @@ pip install tkinter
 ## 3. Jalankan Command
 
 ```bash
-python #<ganti dengan nama file yang ingin dijalankan>
+python #<ganti dengan nama file yang ingin dijalankan>.py
 ```
