@@ -14,7 +14,7 @@ git clone https://github.com/rhyssh/Kriptografi.git
 ## 2. Unduh packages
 
 ```bash
-pip install tkinter
+pip install tk
 ```
 
 ## 3. Jalankan Command
